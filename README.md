@@ -1,9 +1,14 @@
-# api documentation for  [swiper (v3.4.2)](http://www.idangero.us/swiper/)  [![npm package](https://img.shields.io/npm/v/npmdoc-swiper.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-swiper) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-swiper.svg)](https://travis-ci.org/npmdoc/node-npmdoc-swiper)
+# npmdoc-swiper
+
+#### api documentation for  [swiper (v3.4.2)](http://www.idangero.us/swiper/)  [![npm package](https://img.shields.io/npm/v/npmdoc-swiper.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-swiper) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-swiper.svg)](https://travis-ci.org/npmdoc/node-npmdoc-swiper)
+
 #### Most modern mobile touch slider and framework with hardware accelerated transitions
 
-[![NPM](https://nodei.co/npm/swiper.png?downloads=true)](https://www.npmjs.com/package/swiper)
+[![NPM](https://nodei.co/npm/swiper.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/swiper)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-swiper/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-swiper_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-swiper/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-swiper/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-swiper/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-swiper/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-swiper/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-swiper/build/screenCapture.npmPackageListing.svg)
 
@@ -74,13 +79,11 @@
     "main": "dist/js/swiper.js",
     "maintainers": [
         {
-            "name": "nolimits4web",
-            "email": "nolimits4web@gmail.com"
+            "name": "nolimits4web"
         }
     ],
     "name": "swiper",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/nolimits4web/Swiper.git"
@@ -92,16 +95,6 @@
     "version": "3.4.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module swiper](#apidoc.module.swiper)
-
-
-
-# <a name="apidoc.module.swiper"></a>[module swiper](#apidoc.module.swiper)
 
 
 
